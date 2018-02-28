@@ -1,0 +1,24 @@
+a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 200ms ease-out;
+}
+
+a:hover {
+    color: tomato;    
+}
+
+/* header */
+
+#header {
+    background-color: black;
+    display: block;
+    padding: 35px 0px 35px 0px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+/* Footer */
+#footer {
+    margin-top: 15px;
+}
